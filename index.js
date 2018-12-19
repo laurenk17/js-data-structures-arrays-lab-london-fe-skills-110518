@@ -8,3 +8,5 @@ function destructivelyAppendDriver(name) {
 function destructivelyPrependDriver(name) {
   drivers.shift("Bob");
 }
+
+function destructivelyRemove
