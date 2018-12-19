@@ -20,4 +20,6 @@ function appendDriver(name) {
  const newDrivers = [...drivers, "Ralph"]
   return newDrivers
 }
-function 
+function removeLastDriver(name) {
+  
+}
